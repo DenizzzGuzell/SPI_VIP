@@ -47,5 +47,6 @@ Given test above named spi_wr_test assertion results are :
 ## Coverage
 Given test above named spi_wr_test code coverage is :
 
-![image](https://github.com/DenizzzGuzell/SPI_VIP/assets/81621705/de88154c-6d71-42ed-87b0-2d232d648b55)
+![image](https://github.com/DenizzzGuzell/SPI_VIP/assets/81621705/c3f052c7-caee-465c-b595-14d13ff8330f)
+
 
